@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : ConTier
 email      : contier@contier.com #this is also the email contact forms will go to
 description: "Contier"
-author     : Contier
+author     : "Contier"
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
