@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: 건설 현장 업무를 더욱 수월하게
+    text: CONTIER
+    # button: Tell Me More
+    # buttonlink: "#services"
 
   services:
     title: "Services"
